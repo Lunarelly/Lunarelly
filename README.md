@@ -1,5 +1,5 @@
 <p align="center">
-	<b>Lunarelly</b>
+	<b>About me</b>
 </p>
 
 ## Hey! 👋
