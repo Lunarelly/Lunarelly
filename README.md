@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning: PHP, Python
 
 ## Contact me
-- VK: vk.com/lunarelly
+- VK: https://vk.com/lunarelly
 - Discord: Lunarelly#0001
-- Telegram: t.me/lunarellyy
+- Telegram: https://t.me/lunarellyy
 
 ## Donate
 - BTC: bc1qjcxpmy45kfgak6qncwzwrqpad0gvwv5eq4act6
-- QIWI: qiwi.com/n/LEMDY
+- QIWI: https://qiwi.com/n/LEMDY
