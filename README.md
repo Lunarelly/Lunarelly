@@ -4,8 +4,8 @@
 
 ## Hey! 👋
 
-- 🔭 I’m currently working on: Glowstone
-- 🌱 I’m currently learning: PHP, Python
+- 🔭 I’m currently working on: Nukkit
+- 🌱 I’m currently learning: PHP, Python, Java, C++
 
 ### Contact me
 - VK: https://vk.com/lunarelly
