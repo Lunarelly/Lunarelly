@@ -13,7 +13,7 @@
 - Telegram: https://t.me/lunarellyy
 
 ### Donate
-- BTC: bc1qjcxpmy45kfgak6qncwzwrqpad0gvwv5eq4act6
+- BTC: 13YHKuwQm6Vwv5URCNde8UV3eupGtfx1S8
 - QIWI: https://qiwi.com/n/LEMDY
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Lunarelly&show_icons=true&count_private=true&hide_title=true)
