@@ -2,6 +2,8 @@
 	<b>About me</b>
 </p>
 
+![](https://komarev.com/ghpvc/?username=Lunarelly)
+
 ## Hey! 👋
 
 - 🔭 I’m currently working on: PMMP 4
