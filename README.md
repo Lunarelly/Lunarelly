@@ -12,4 +12,4 @@
 ### Contact me
 - VK: https://vk.com/lunarelly
 - Discord: Lunarelly#8099
-- Telegram: https://t.me/lunarellyy
+- Telegram: https://t.me/lunarelly
