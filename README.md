@@ -11,5 +11,5 @@
 
 ### Contact me
 - VK: https://vk.com/lunarelly
-- Discord: Lunarelly#8099
+- Discord: lunarelly
 - Telegram: https://t.me/lunarelly
