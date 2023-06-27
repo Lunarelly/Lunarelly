@@ -7,7 +7,6 @@
 ## Hey! 👋
 
 - 🔭 I’m currently working on: @Antralia
-- 🌱 I’m currently learning: PHP, Python, Java, C++
 
 ### Contact me
 - VK: https://vk.com/lunarelly
