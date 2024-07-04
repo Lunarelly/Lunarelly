@@ -4,11 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Lunarelly)
 
-## Hey! 👋
+## uhm
 
-- 🔭 I’m currently working on: @Antralia
+- active stuff: @Antralia
 
-### Contact me
+### contacts, i guess
 - VK: https://vk.com/lunarelly
 - Discord: lunarelly
 - Telegram: https://t.me/lunarelly
