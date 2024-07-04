@@ -9,6 +9,4 @@
 - active stuff: @Antralia
 
 ### contacts, i guess
-- VK: https://vk.com/lunarelly
-- Discord: lunarelly
-- Telegram: https://t.me/lunarelly
+- @lunarelly everywhere except for instagram & twitter (@lunarellyy)
