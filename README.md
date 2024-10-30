@@ -6,7 +6,7 @@
 
 ## uhm
 
-- active stuff: @Antralia
+- active stuff: ??? (none atm)
 
 ### contacts, i guess
 - @lunarelly everywhere except for instagram & twitter (@lunarellyy)
